@@ -98,7 +98,5 @@ public class ChoiceAppl {
     public static int sign1(double number) {
         return number > 0 ? 1 : number < 0 ? -1 : 0;
     }
-
-
 }
 
